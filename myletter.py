@@ -1,0 +1,12 @@
+пробіли = " " * 25
+print ('%s qwerqwerwet,12' % пробіли)
+print ('%s kjldlslsd1' % пробіли)
+print ('%s asdcvsdvds' % пробіли)
+print ()
+print ()
+print ('sdafcsad')
+print ()
+print ("asdasdada")
+print ()
+print ('aefa')
+print ('asfda')
